@@ -4,8 +4,8 @@ Just a simple GPA Calculator for your GPA Calculating needs !
   
 Welcome to the GPA Calculator!  
 -----------------------------  
+Grade to GPA (4.0 Scale)  
 
-Grade to GPA  
 A = 4.0  
 A- = 3.7  
 B+ = 3.3  
@@ -20,6 +20,9 @@ D- = 0.7
 F = 0.0  
 
 -----------------------------  
+
+This Gpa Calculator calculates your average grade point average and you can even predict your gpa by inputting courses that you may take next semester to see what you need to reach your own personal goals!  
+  
 The Courses displays the courses you have entered on the following table.
 Credit hours are required, but the Course name and Grade are optional.
 Blank Grades will be accounted as "blank credits" for required GPA on
