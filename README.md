@@ -4,6 +4,7 @@ Just a simple GPA Calculator for your GPA Calculating needs !
   
 Welcome to the GPA Calculator!  
 -----------------------------  
+
 Grade to GPA  
 A = 4.0  
 A- = 3.7  
@@ -17,6 +18,7 @@ D+ = 1.3
 D = 1.0  
 D- = 0.7  
 F = 0.0  
+
 -----------------------------  
 The Courses displays the courses you have entered on the following table.
 Credit hours are required, but the Course name and Grade are optional.
